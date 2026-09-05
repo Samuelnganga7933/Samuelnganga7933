@@ -2,8 +2,6 @@
 
 <img src="./assets/header-animated.svg" alt="Samuel Nganga — animated header" width="100%" />
 
-## CT student @ MMU Kenya — Builder, Designer, Problem Solver
-
 I build clean, practical software that people actually use: point-of-sale systems, browser extensions, iOS apps, and delightful UIs. I focus on readable code, thoughtful architecture, and strong UX.
 
 Contact & links
