@@ -66,11 +66,6 @@
         <br/>
         <sub>POS Uptime</sub>
       </td>
-      <td align="center" width="180">
-        <img src="https://img.shields.io/badge/3rd%20Year-0EA5E9?style=for-the-badge&labelColor=0F172A" />
-        <br/>
-        <sub>CS Degree (2026-27)</sub>
-      </td>
     </tr>
   </table>
   
