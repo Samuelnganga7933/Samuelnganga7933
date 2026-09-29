@@ -1,7 +1,5 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=LeniSoft&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-  
   <h3>Samuel Nganga</h3>
   <p>Founder & Engineer — building production systems that scale.<br/>
   Code • Cloud • AI as tools. Not the product.</p>
@@ -161,14 +159,3 @@ Stack:
 **Open to:** Collaborations on legal tech, property tech, retail systems, offline-first architecture.
 
 **Reach:** samuelnganga7933@gmail.com
-
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer" />
-  
-  <sub>Founder @ LeniSoft | Building systems that work anywhere</sub>
-  
-</div>
-
